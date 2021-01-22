@@ -1,4 +1,4 @@
-The implemention of our AAAI'21 paper (Learning from Noisy Labels with Complementary Loss Functions).
+This is the implemention of our AAAI'21 paper (Learning from Noisy Labels with Complementary Loss Functions).
 
 This implementation is based on PyTorch. You need:
 1. 	Download CIFAR-10, CIFAR-100 and TinyImageNet datasets into './data/'.
