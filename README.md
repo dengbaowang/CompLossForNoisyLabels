@@ -13,6 +13,5 @@ This implementation is based on PyTorch. You need:
 	python Run_TinyImageNet.py --data_path ./data/tiny-imagenet-200 --dataset tiny --num_class 200 --r 0.5 --noise_mode sym --rloss MAE
 	python Run_TinyImageNet.py --data_path ./data/tiny-imagenet-200 --dataset tiny --num_class 200 --r 0.3 --noise_mode asym --rloss MAE
 	```
-	Or you can submit jobs using shell files like 'job_cifar.sh'. 
 
 If you have any further questions, please feel free to send an e-mail to: wangdb@seu.edu.cn.
